@@ -1,4 +1,4 @@
-# configs
+# **configs**
 
 My vimrc config and some reference for vim and tmux.
 
